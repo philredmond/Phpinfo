@@ -1,0 +1,2 @@
+# Phpinfo
+Test file
